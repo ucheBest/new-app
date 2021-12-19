@@ -1,0 +1,6 @@
+body {
+  background: scroll rgb(36, 29, 29);
+  color: #fff;
+  display: flex;
+  flex-direction: row;
+}
